@@ -1,0 +1,5 @@
+2026-05-06 10:01:58,585 - INFO - Berhasil terhubung ke database MongoDB.
+2026-05-06 10:03:22,997 - INFO - Data batch B001 untuk mesin Mesin CNC01 berhasil diinsert.
+2026-05-06 10:03:34,646 - INFO - Berhasil menampilkan 1 data untuk mesin Mesin CNC01.
+2026-05-06 10:03:58,639 - INFO - Menampilkan 1 data batch dengan reject rate tinggi.
+2026-05-06 10:04:11,923 - INFO - Berhasil mengekspor laporan bulanan ke laporan_05-2026.csv.
